@@ -2,8 +2,8 @@
 
 # 效果图
 <img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_2.png" width=270 height=150/>
-<img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_3.jpg" width=270 height=150/>
-<img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_1.jpg" width=270 height=150/>
+<img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_3.png" width=270 height=150/>
+<img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_1.png" width=270 height=150/>
 
 数据以块为单位组织
 
