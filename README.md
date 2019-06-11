@@ -1,7 +1,7 @@
 目前主流的leanback风格的Android tv应用
 
 # 效果图
-<img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_2.png" width="700" height = "400"/>
+<img src="https://github.com/zhangtiansheng/TVLeanBackApp/blob/master/image/TV_2.png" width="700" height = "400"/>
 <img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_3.png" width="700" height = "400"/>
 <img src="https://raw.githubusercontent.com/zhangtiansheng/TVLeanBackApp/master/image/TV_1.png" width="700" height = "400"/>
 
